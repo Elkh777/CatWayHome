@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatSWayHome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea4cc67bbf52f4f2d8322d656417da8adaf3fe76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7cd1c16635bea95d6cfd06af31581d09e98b7e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatSWayHome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatSWayHome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
